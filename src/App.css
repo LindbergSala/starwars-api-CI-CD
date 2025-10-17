@@ -1,0 +1,43 @@
+body {
+  background: #000;
+  color: #ffe81f;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  padding: 1rem;
+}
+
+.app h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.search-bar {
+  padding: 0.5rem;
+  width: 60%;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid #ffe81f;
+  border-radius: 8px;
+  padding: 0.5rem;
+  margin: 0.5rem auto;
+  width: 300px;
+}
+
+button {
+  background: #ffe81f;
+  color: #000;
+  border: none;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #fff200;
+}
+
